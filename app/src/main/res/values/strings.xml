@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="calculate_your">calculate_your</string>
+    <string name="age">age</string>
+    <string name="in_minutes">inMinutes</string>
+    <string name="select_date">selectDate</string>
+    <string name="selected_date">selectedDate</string>
+    <string name="age_in_minutes">ageInMinutes</string>
+</resources>
